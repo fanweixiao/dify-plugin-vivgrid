@@ -7,9 +7,9 @@ label:
   ja_JP: Vivgrid
   zh_Hans: Vivgrid
 description:
-  en_US: Vivgrid offers Geo-distributed LLMs with low latency and reliable scale.
-  zh_Hans: Vivgrid 提供基于全球就近部署的 LLM，具备企业级的低延迟和高速响应能力。
-  ja_JP: Vivgridは、低遅延で信頼性の高いスケーラビリティを備えた地理的に分散されたLLMを提供します。
+  en_US: Vivgrid delivers geo-distributed LLMs with low latency and resilient scale, letting you centrally manage GPT‑5.1, Gemini 3 Pro, DeepSeek V3.2, and more while keeping agents decoupled from the infrastructure.
+  zh_Hans: Vivgrid 提供地理分布式的 LLM，具有低延迟和弹性扩展性，使得 AI 应用可以随时无缝切换 GPT-5.1、Gemini 3 Pro、DeepSeek V3.2 等主流大模型，实现应用与基础设施解耦，让您的 AI Agent 始终保持领先。
+  ja_JP: Vivgrid は、低遅延で弾力的なスケーリングを備えた地理分散型の LLM を提供し、インフラストラクチャからエージェントを切り離しながら、GPT-5.1、Gemini 3 Pro、DeepSeek V3.2 などを集中管理できます。
 icon: icon.svg
 icon_dark: icon-dark.svg
 resource:

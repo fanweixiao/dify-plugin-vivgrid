@@ -1,8 +1,8 @@
-model: gpt-5.1
+model: chat-model
 label:
-  zh_Hans: gpt-5.1
-  en_US: gpt-5.1
-  ja_JP: gpt-5.1
+  zh_Hans: chat-model
+  en_US: chat-model
+  ja_JP: chat-model
 model_type: llm
 features:
   - multi-tool-call

@@ -1,8 +1,8 @@
-model: managed
+model: reasoning-model
 label:
-  en_US: managed
-  zh_Hans: managed
-  ja_JP: マネージド
+  en_US: reasoning-model
+  zh_Hans: reasoning-model
+  ja_JP: reasoning-model
 model_type: llm
 features:
   - agent-thought
