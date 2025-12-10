@@ -23,15 +23,15 @@ configurate_methods:
   - predefined-model
   - customizable-model
 model_credential_schema:
-  # model:
-  #   label:
-  #     en_US: Model Name
-  #     zh_Hans: 模型名称
-  #     ja_JP: モデル名
-  #   placeholder:
-  #     en_US: Enter your model name
-  #     zh_Hans: 输入模型名称
-  #     ja_JP: モデル名を入力してください
+  model:
+    label:
+      en_US: Model Name
+      zh_Hans: 模型名称
+      ja_JP: モデル名
+    placeholder:
+      en_US: Enter your model name
+      zh_Hans: 输入模型名称
+      ja_JP: モデル名を入力してください
   credential_form_schemas:
     - variable: api_key
       label:

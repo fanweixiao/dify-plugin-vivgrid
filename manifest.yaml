@@ -1,17 +1,15 @@
 version: 0.0.1
 type: plugin
 author: fanweixiao
-name: Vivgrid
+name: vivgrid
 label:
   en_US: Vivgrid
   ja_JP: Vivgrid
   zh_Hans: Vivgrid
-  pt_BR: Vivgrid
 description:
-  en_US: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
-  ja_JP: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
-  zh_Hans: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
-  pt_BR: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
+  en_US: Vivgrid offers Geo-distributed LLMs with low latency and reliable scale.
+  zh_Hans: Vivgrid 提供基于全球就近部署的 LLM，具备企业级的低延迟和高速响应能力。
+  ja_JP: Vivgridは、低遅延で信頼性の高いスケーラビリティを備えた地理的に分散されたLLMを提供します。
 icon: icon.svg
 icon_dark: icon-dark.svg
 resource:
