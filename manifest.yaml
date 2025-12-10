@@ -1,0 +1,35 @@
+version: 0.0.1
+type: plugin
+author: fanweixiao
+name: Vivgrid
+label:
+  en_US: Vivgrid
+  ja_JP: Vivgrid
+  zh_Hans: Vivgrid
+  pt_BR: Vivgrid
+description:
+  en_US: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
+  ja_JP: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
+  zh_Hans: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
+  pt_BR: Vivgrid offers AI observability, debugging, evaluation, testing, and deployment—plus a globally distributed inference infrastructure that delivers low latency and reliable scale
+icon: icon.svg
+icon_dark: icon-dark.svg
+resource:
+  memory: 268435456
+  permission: {}
+plugins:
+  models:
+    - provider/vivgrid.yaml
+meta:
+  version: 0.0.1
+  arch:
+    - amd64
+    - arm64
+  runner:
+    language: python
+    version: "3.12"
+    entrypoint: main
+  minimum_dify_version: null
+created_at: 2025-12-10T04:20:00.180075Z
+privacy: PRIVACY.md
+repo: https://github.com/fanweixiao/xxx
